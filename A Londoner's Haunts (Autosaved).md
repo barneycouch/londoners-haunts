@@ -109,6 +109,7 @@ I've lived in London for 20 years, which isn't nearly as long as some. But it's 
 * Folk
 * Anthem
 * Present
+* Hoxton Street Monster Supplies
 
 ##Restaurants
 *	Gingerline HQ, Anywhere on the East London Line
