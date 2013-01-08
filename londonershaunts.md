@@ -134,3 +134,10 @@
 * The Screen, Baker St
 * Phoenix Cinema, Finchley
 * Tricycle Cinema, Kilburn
+
+##Resources
+*	[I Know This Great Little Place in London](http://www.greatlittleplace.com/)
+* [Time Out Secret London page](http://www.timeout.com/london/feature/1336/secret-london) and [blog](http://now-here-this.timeout.com/)
+* [Yelp](http://www.yelp.com/london)
+* [London for Free](https://www.facebook.com/pages/London-For-Free/224203727612545)
+* [Londonist](http://londonist.com/)
