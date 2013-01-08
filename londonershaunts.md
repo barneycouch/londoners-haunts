@@ -1,8 +1,5 @@
 #A Londoner's Haunts
 
-##Preface
-I've lived in London for 20 years, which isn't nearly as long as some. But it's long enough to find the best places you'll never see as a tourist, or even a short-term visitor, without a seriously knowledgeable friend. The locations below are not those that you'll find in every guidebook, but a few personal favourites from years of exploration.
-
 ##Art
 * Wallace Collection, Marylebone
 * Photographer's Gallery, Oxford Circus
