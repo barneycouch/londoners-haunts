@@ -39,19 +39,28 @@
 * Dennis Severs' House, Spitalfields
 * 18 Stafford Terrace, Kensington
 * Marianne North Gallery, Kew
+* Ham House, Richmond
 * Wiener Library, Russell Square
 
 ##Other Public Buildings
 * Gresham College
 * Neasden Temple
 * London Library, Westminster
+* TFL Lost Property Office, Baker Street
+* Sands Films & Rotherhithe Picture Research Library, Rotherhithe [includes free cinema on Tuesdays]
+* Crossness Pumping Stations, Abbey Wood
 
 ##Parks and Gardens
 * Kyoto Garden, Holland Park
+* Pergola and Hill Garden, Hampstead
+* Golders Hill Park, Hampstead
 * London Wetland Centre, Barnes
 * Richmond and Bushy Parks, Richmond
 * Highgate Cemetery, Highgate
+* Nunhead Cemetery, Peckham
 * Hackney City Farm, Hackney
+* Kentish Town City Farm, Kentish Town
+* Herne Hill Velodrome, Dulwich
 
 ##Cafes
 * Look Mum No Hands, Old Street
@@ -59,14 +68,22 @@
 * Yumchaa, Soho
 * Ginger & White, Hampstead
 * The Breakfast Club, Hoxton/Angel/Soho/Spitalfields
+* Macaron Patisserie, Clapham
 * L'Entrepot, Dalston
 * Candid Cafe, Islington
+* Teanamu, Notting Hill
 * Birdhouse, Battersea
 * Arlo & Moe, Brockley
 * Cafe Viva, Peckham
+* Reilly Rocket, Dalston
 
-##Clubs (coming shortly)
+##Live Music (coming shortly)
 * Ronnie Scott's Jazz Club, Soho
+* Green Note, Camden
+* Way Out West at the Orange Tree, Richmond
+* Mondays at the Red Lion, Isleworth
+* East Side Jazz Tuesdays at the Lord Rookwood, Leytonstone
+* North London Tavern Sundays, Kilburn
 
 ##Bars and Pubs
 * Mayor of Scaredy Cat Town, Spitalfields
@@ -74,6 +91,7 @@
 * Evans and Peel Detective Agency, Islington
 * Nightjar, Hoxton
 * Queen of Hoxton, Hoxton
+* Ruby's, Stoke Newington
 * Gordon's Wine Bar, Embankment
 * Ye Olde Cheshire Cheese, Holborn
 * Scooter Cafe, Waterloo
@@ -110,11 +128,18 @@
 * Anthem
 * Present
 * Hoxton Street Monster Supplies
+* Music/Video/Books/Clothes Exchange, Notting Hill
+* Books for Cooks, Notting Hill
+
+*	Sunbury Market, Twickenham
 
 ##Restaurants (in progress)
 * Gingerline HQ, Anywhere on the East London Line
+* The Electric Diner, Portobello
 * Shaka Zulu, Camden
 * The Rookery, Clapham
+* LMNT, Dalston
+* Bunga Bunga, Battersea
 
 ##Cinemas
 * Secret Cinema, Everywhere
@@ -122,6 +147,7 @@
 * The Coronet, Notting Hill
 * The Ritzy Picturehouse, Brixton
 * Renoir Cinema, Russell Square
+* Riverside Studios, Hammersmith
 * Curzon, Mayfair/Soho/Chelsea/Richmond
 * Everyman, Baker St/Hampstead/Maida Vale
 * BFI, Southbank
@@ -131,7 +157,7 @@
 * Greenwich Picturehouse, Greenwich
 * Screen On The Green, Islington
 * Cine Lumiere, Kensington
-* The Screen, Baker St
+* The Screen, Baker Street
 * Phoenix Cinema, Finchley
 * Tricycle Cinema, Kilburn
 
@@ -141,3 +167,5 @@
 * [Yelp](http://www.yelp.com/london)
 * [London for Free](https://www.facebook.com/pages/London-For-Free/224203727612545)
 * [Londonist](http://londonist.com/)
+* [The Nudge](http://thenudge.com/)
+* [Miss Immy's London](http://www.missimmyslondon.com/)
