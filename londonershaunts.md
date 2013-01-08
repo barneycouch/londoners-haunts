@@ -68,26 +68,30 @@ I've lived in London for 20 years, which isn't nearly as long as some. But it's 
 * Arlo & Moe, Brockley
 * Cafe Viva, Peckham
 
+##Clubs (coming shortly)
 * Ronnie Scott's Jazz Club, Soho
 
 ##Bars and Pubs
 * Mayor of Scaredy Cat Town, Spitalfields
+* Happiness Forgets, Hoxton
+* Evans and Peel Detective Agency, Islington
+* Nightjar, Hoxton
+* Queen of Hoxton, Hoxton
 * Gordon's Wine Bar, Embankment
 * Ye Olde Cheshire Cheese, Holborn
 * Scooter Cafe, Waterloo
 * Happiness Forgets, Hoxton
-* Nightjar, Hoxton
-* Queen of Hoxton, Hoxton
+* Calloo Callay, Shoreditch
 * Lounge Bohemia, Shoreditch
 * Bar Kick, Shoreditch
 * The New Bloomsbury Set, Euston
+* Evans and Peel Detective Agency, Earls Court
 * Rules Cocktail Bar, Covent Garden
 * Experimental Cocktail Club, Soho
 * Ain't Nothin But, Soho
 * The Grapes, Poplar
 * The Blue Anchor, Hammersmith
 * Strongroom, Hoxton
-* Happiness Forgets, Hoxton
 * Milk & Honey, Soho
 * 69 Colebrook Row, Islington
 * Brewdog/Underdog, Shoreditch
@@ -98,26 +102,25 @@ I've lived in London for 20 years, which isn't nearly as long as some. But it's 
 * The Lucky Pig, Fitzrovia
 * The Faltering Fullback, Finsbury Park
 * The Palm Tree, Mile End
-* Evans and Peel Detective Agency, Islington
 * The Shoreditch Butchery, Shoreditch
 * The Pig and Butcher, Islington
 * Jerusalem Tavern, Clerkenwell
 
 
-##Shops
+##Shops (in progress)
 * Skoob
 * Folk
 * Anthem
 * Present
 * Hoxton Street Monster Supplies
 
-##Restaurants
-*	Gingerline HQ, Anywhere on the East London Line
+##Restaurants (in progress)
+* Gingerline HQ, Anywhere on the East London Line
 * Shaka Zulu, Camden
 * The Rookery, Clapham
 
 ##Cinemas
-*	Secret Cinema, Everywhere
+* Secret Cinema, Everywhere
 * The Electric Cinema, Portobello
 * The Coronet, Notting Hill
 * The Ritzy Picturehouse, Brixton
