@@ -119,3 +119,18 @@ I've lived in London for 20 years, which isn't nearly as long as some. But it's 
 ##Cinemas
 *	Secret Cinema, Everywhere
 * The Electric Cinema, Portobello
+* The Coronet, Notting Hill
+* The Ritzy Picturehouse, Brixton
+* Renoir Cinema, Russell Square
+* Curzon, Mayfair/Soho/Chelsea/Richmond
+* Everyman, Baker St/Hampstead/Maida Vale
+* BFI, Southbank
+* Roxy, London Bridge
+* Rio, Dalston
+* Rich Mix, Shoreditch
+* Greenwich Picturehouse, Greenwich
+* Screen On The Green, Islington
+* Cine Lumiere, Kensington
+* The Screen, Baker St
+* Phoenix Cinema, Finchley
+* Tricycle Cinema, Kilburn
