@@ -124,6 +124,7 @@
 
 ##Shops (in progress)
 * Skoob
+* Donlon Books, London Fields
 * Folk
 * Anthem
 * Present
