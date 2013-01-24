@@ -123,7 +123,7 @@
 
 
 ##Shops (in progress)
-* Skoob
+*Skoob
 * Donlon Books, London Fields
 * Folk
 * Anthem
@@ -131,8 +131,7 @@
 * Hoxton Street Monster Supplies
 * Music/Video/Books/Clothes Exchange, Notting Hill
 * Books for Cooks, Notting Hill
-
-*	Sunbury Market, Twickenham
+*Sunbury Market, Twickenham
 
 ##Restaurants (in progress)
 * Gingerline HQ, Anywhere on the East London Line
