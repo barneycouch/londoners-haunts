@@ -4,4 +4,6 @@ Cheap eats in london: http://www.lfgss.com/thread91256.html
 
 http://www.greatlittleplace.com/feature/london-most-unusual-and-quirky-restaurants-part2
 
+http://www.greatlittleplace.com/place/barts-london-cocktail-bar
+
 Add pictures (maybe right column on website?)
